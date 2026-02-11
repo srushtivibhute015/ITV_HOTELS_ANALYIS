@@ -82,6 +82,8 @@ Interactive filtering enables deep‑dive analysis
 This project showcases a complete Power BI data analytics workflow—from raw data to actionable insights.
 It highlights strong fundamentals in Power BI, DAX, and analytical thinking, making it ideal for showcasing on GitHub and in data analyst interviews.
 
+
+
 👩‍💻 Author
 
 Srushti Vibhute
